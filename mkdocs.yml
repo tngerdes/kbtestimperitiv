@@ -1,0 +1,3 @@
+site_name: My Knowledge Base
+nav:
+  - Home: index.md
