@@ -4,6 +4,9 @@ on:
     branches:
       - main # or master
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Deploy docs
