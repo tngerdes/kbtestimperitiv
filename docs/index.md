@@ -1,9 +1,56 @@
 # Welcome to the Imperitiv Knowledge Base
 
-This is the home page of the Imperitiv Knowledge Base (KB). Here you can find links to the raw inbox files and their descriptions.
+This knowledge base contains IT documentation, standard operating procedures, security policies, and reference materials for Imperitiv Solutions.
 
 ## Version
-- Current Version: v0.1
+- Current Version: v0.2
 
-## Links to Inbox Files
-- [Inbox Files](../inbox)
+---
+
+## How-To Guides
+
+Step-by-step instructions for common end-user tasks.
+
+- [Share SharePoint Files from File Explorer](how-to-guides/share-sharepoint-files.md)
+- [Import a Digital Certificate into Outlook](how-to-guides/import-certificate-outlook.md)
+- [Enroll Your Mobile Device in MDM](how-to-guides/enroll-mobile-mdm.md)
+
+---
+
+## Standard Operating Procedures (SOPs)
+
+Technical procedures for IT administrators.
+
+- [Build a PC Using Intune (Windows Autopilot)](sops/build-pc-intune.md)
+- [Enroll Mobile Devices in MDM (2022)](sops/enroll-mobile-mdm-2022.md)
+- [Backup Nonstandard Directories to OneDrive](sops/backup-nonstandard-onedrive.md)
+- [Manage Firefox Settings in Microsoft Endpoint Manager](sops/manage-firefox-mem.md)
+- [Migrate a PC from On-Premises AD to Azure AD](sops/migrate-pc-azure-ad.md)
+
+---
+
+## Security Policies
+
+Company-wide security policies governing the protection of personally identifiable information (PII) and sensitive company data.
+
+- [Policy #1 — Written Information Security Policy (WISP)](security-policies/wisp.md)
+- [Policy #2 — Termination Policy](security-policies/termination-policy.md)
+- [Policy #3 — Security Incident Response](security-policies/incident-response.md)
+- [Policy #4 — Sanction Policy](security-policies/sanction-policy.md)
+- [Policy #5 — Network Security](security-policies/network-security.md)
+- [Policy #6 — Access Control](security-policies/access-control.md)
+- [Policy #7 — Computer Use](security-policies/computer-use.md)
+- [Policy #8 — Equipment Disposal](security-policies/equipment-disposal.md)
+- [Policy #9 — BYOD Policy](security-policies/byod-policy.md)
+- [Policy #10 — Facility Security Plan](security-policies/facility-security.md)
+
+---
+
+## Reference
+
+Technical reference materials, quick links, and troubleshooting guides.
+
+- [IT Support Reference Card](reference/it-support-reference-card.md)
+- [Troubleshooting Guide](reference/troubleshooting.md)
+- [Ubiquiti Networks Deployment Process](reference/ubiquiti-sdn.md)
+- [KB References & Quick Links](reference/kb-references.md)
