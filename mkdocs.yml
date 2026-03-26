@@ -1,4 +1,5 @@
 site_name: Imperitiv Knowledge Base
+site_url: https://tngerdes.github.io/kbtestimperitiv/
 theme:
   name: material
 nav:
